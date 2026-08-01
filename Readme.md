@@ -113,10 +113,6 @@ Airline-Reservation-System/
 
 ![ER Diagram](ER_Diagram.png)
 
-### Sample Query Output
-
-![Query Output](query-output.png)
-
 ---
 
 ## Learning Outcomes
