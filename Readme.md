@@ -3,6 +3,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
 A MySQL-based Airline Reservation System developed to efficiently manage airline operations, including flight scheduling, passenger bookings, payments, baggage, crew management, flight status tracking, and delay analysis. This project demonstrates relational database design and advanced SQL concepts through a real-world use case.
 
